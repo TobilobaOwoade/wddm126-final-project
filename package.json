@@ -1,0 +1,29 @@
+{
+  "name": "wddm126-final-project",
+  "version": "1.0.0",
+  "description": "Final Project 1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/script.js",
+  "dev": "nodemon src/script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TobilobaOwoade/wddm126-final-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/TobilobaOwoade/wddm126-final-project/issues"
+  },
+  "homepage": "https://github.com/TobilobaOwoade/wddm126-final-project#readme",
+  "dependencies": {
+    "dayjs": "^1.11.20"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
