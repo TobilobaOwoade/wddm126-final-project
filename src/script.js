@@ -27,4 +27,7 @@ function showEnhancementMessage() {
 
   document.getElementById("about").appendChild(message);
 
+
+
+
 }
